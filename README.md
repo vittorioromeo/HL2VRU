@@ -18,7 +18,7 @@
 * **Dual wielding**
     - ➡️ | Allows each hand to independently equip and operate a weapon.
     - ⚠️ | Requires the following actions to be bound on *both* controllers in the SteamVR bindings menu:
-        - `"Fire"`, `"Alt Fire"`, `"Eject"`, `"Open weapon selection"`
+        - `"Fire"`, `"Alt Fire"`, `"Eject Magazine"`, `"Open Weapon Selection"`
     - ⚠️ | It is recommended to change the default `"Toggle Menu"` action to be a long press or a chord to not interfere with the left hand's `"Alt Fire"` action.
     - ⚠️ | It is also recommended to disable the `"Sprint"` action when pressing the left hand's joystick, as that will become the most natural bind for the weapon selection HUD. Sprinting is still possible by double-tapping the joystick.
     - 🛈 | At the moment, obtaining any weapon makes it available for both hands. For example, as soon as you collect the crowbar, you'll be able to dual wield crowbars despite only having collected one.
