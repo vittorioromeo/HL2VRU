@@ -43,14 +43,16 @@
 
 ## Installation
 
-1. Obtain the latest release [from the "Releases" page](https://github.com/vittorioromeo/HL2VRU/releases).
+1. Install the original [Half-Life 2: VR Mod](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/) from Steam.
 
-2. Extract all the files on top of your existing HL2VR installation.
+2. Obtain the latest release of HL2VRU [from the "Releases" page](https://github.com/vittorioromeo/HL2VRU/releases).
+
+3. Extract all the files on top of your existing HL2VR installation.
     - Usually `C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2 VR\`.
 
-3. Run HL2VR as normal. If the mod was successfully installed, the title screen should show *"U N L E A S H E D"* under the main title.
+4. Run HL2VR as normal. If the mod was successfully installed, the title screen should show *"U N L E A S H E D"* under the main title.
 
-4. Make sure to change your SteamVR bindings to support the new features, and to tweak any settings. 
+5. ❗❗ **Make sure to change your SteamVR bindings to support the new features**, and to tweak any settings. ❗❗
 
 ## Removal
 
