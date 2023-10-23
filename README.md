@@ -52,7 +52,7 @@
 
 4. Run HL2VR as normal. If the mod was successfully installed, the title screen should show *"U N L E A S H E D"* under the main title.
 
-5. ❗❗ **Make sure to change your SteamVR bindings to support the new features**, and to tweak any settings. ❗❗
+5. ❗ **Make sure to change your SteamVR bindings to support the new features**, and to tweak any settings. ❗
 
 ## Removal
 
