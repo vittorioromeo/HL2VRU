@@ -6,16 +6,16 @@
 
 ## New Features
 
-* **Universal melee**
+* **Universal Melee**
     - ➡️ | Allows physical melee attacks with any weapon, or even with empty hands.
     - 🛠️ | Can be toggled in the *tweaks menu*, the damage can also be tuned as well.
 
-* **Physical jumping**
+* **Physical Jumping**
     - ➡️ | Translates physical jumping into in-game jumping.
     - 🛠️ | Can be toggled in the *controls menu*.
     - 🛠️ | Jumping threshold can be tweaked via the `hlvr_control_physical_jump_threshold` CVar.
 
-* **Dual wielding**
+* **Dual Wielding**
     - ➡️ | Allows each hand to independently equip and operate a weapon.
     - ⚠️ | Requires the following actions to be bound on *both* controllers in the SteamVR bindings menu:
         - `"Fire"`, `"Alt Fire"`, `"Eject Magazine"`, `"Open Weapon Selection"`
@@ -23,11 +23,11 @@
     - ⚠️ | It is also recommended to disable the `"Sprint"` action when pressing the left hand's joystick, as that will become the most natural bind for the weapon selection HUD. Sprinting is still possible by double-tapping the joystick.
     - 🛈 | At the moment, obtaining any weapon makes it available for both hands. For example, as soon as you collect the crowbar, you'll be able to dual wield crowbars despite only having collected one.
 
-* **Virtual stock**
+* **Virtual Stock**
     - ➡️ | Interpolates the two-handed aiming angle with the player's approximate shoulder position, resulting in more stability when aiming down sights.
     - 🛠️ | Can be toggled in the *tweaks menu*, where also the shoulder position can be tuned.
 
-* **Grip-holster mode**
+* **Grip-Holster Mode**
     - ➡️ | Automatically holsters weapons if the grip button is released, and automatically equips the last holstered weapon if the grip button is held.
     - 🛈 | Any hand interaction (e.g. grabbing a prop, toggling the flashlight) takes priority over equipping the last holstered weapon.
     - 🛈 | This is the recommended setting when dual wielding, as it simplifies the reloading process for two weapons a lot.
@@ -35,22 +35,26 @@
     - 🛈 | This setting is compatible with the *"Toggle grab"* option, that, if enabled, will require simply pressing the grip button rather than keeping it held.
     - 🛠️ | Can be toggled in the *controls menu*, where the related *"Toggle grab"* option can also be tuned.
 
-* **Difficulty tweaks**
+* **Difficulty Tweaks**
     - ➡️ | Allows fine-tuning of damage, recoil, and bullet spread.
     - 🛈 | Both inflicted and taken damage can be tuned, allowing a more deadly and intense (i.e. no bullet sponges) yet fair experience.
     - 🛈 | It is recommended to reduce the recoil multiplier a bit to make dual wielding automatic weapons more enjoyable. 
     - 🛠️ | Can be tuned in the *tweaks menu*.
+ 
+* **Miscellaneous**
+    - ➡️ | Manually tweaked the position of every weapon model to keep the player's hand in the same stable position, improving aiming consistency.
 
 ## Installation
 
 1. Install the original [Half-Life 2: VR Mod](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/) from Steam.
+    - Optionally, install [Half-Life 2: VR Mod - Episode One](https://store.steampowered.com/app/2177750/HalfLife_2_VR_Mod__Episode_One/) and [Half-Life 2: VR Mod - Episode Two](https://store.steampowered.com/app/2177760/HalfLife_2_VR_Mod__Episode_Two/).
 
 2. Obtain the latest release of HL2VRU [from the "Releases" page](https://github.com/vittorioromeo/HL2VRU/releases).
 
 3. Extract all the files on top of your existing HL2VR installation.
     - Usually `C:\Program Files (x86)\Steam\steamapps\common\Half-Life 2 VR\`.
 
-4. Run HL2VR as normal. If the mod was successfully installed, the title screen should show *"U N L E A S H E D"* under the main title.
+4. Run HL2VR (or HL2VR:EP1/2) as normal. If the mod was successfully installed, the title screen should show *"U N L E A S H E D"* under the main title.
 
 5. ❗ **Make sure to change your SteamVR bindings to support the new features**, and to tweak any settings. ❗
 
