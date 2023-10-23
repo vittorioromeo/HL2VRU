@@ -100,9 +100,10 @@
 <p></p>
 
 - Buy me a coffee:
+    - https://ko-fi.com/vittorioromeo
+    - https://paypal.me/romeovittorio
     - https://github.com/sponsors/vittorioromeo
     - https://patreon.com/vittorioromeo
-    - https://paypal.me/romeovittorio
 
 ## Other Projects
 
