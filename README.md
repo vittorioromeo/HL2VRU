@@ -48,6 +48,15 @@
 
 <p></p>
 
+* **Weapon Weight Simulation**
+    - ➡️ | Provides a sense of weightiness when handling weapons.
+    - 🛈 | Light weapons such as the pistol and the revolver should feel almost the same as before.
+    - 🛈 | Heavier weapons will now provide some resistance to movement and rotation.
+    - 🛈 | Holding a weapon with both hand greatly improves handling and reduces the sense of weightiness.
+    - 🛠️ | Can be toggled in the *tweaks menu*.
+
+<p></p>
+
 * **Difficulty Tweaks**
     - ➡️ | Allows fine-tuning of damage, recoil, and bullet spread.
     - 🛈 | Both inflicted and taken damage can be tuned, allowing a more deadly and intense (i.e. no bullet sponges) yet fair experience.
@@ -58,6 +67,7 @@
 
 * **Miscellaneous**
     - ➡️ | Manually tweaked the offset of every weapon to keep the player's hand in the same position, improving aiming consistency.
+    - ➡️ | Changed the RPG's two-handed grip: the secondary hand now rests on top of the weapon, close to the muzzle.
 
 ## Installation
 
